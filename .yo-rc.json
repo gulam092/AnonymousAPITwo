@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.2",
+    "libraryName": "anonymous-demo-2",
+    "libraryId": "b5f335c1-7b5b-4c37-a543-ff7e50bc61ba",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "AnonymousDemo2",
+    "solutionShortDescription": "AnonymousDemo2 description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
